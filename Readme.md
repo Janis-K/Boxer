@@ -36,3 +36,4 @@ using Entity Framework Core ORM, repeating the cycle for the whole file.
 * Based on requirements there could be a need for duplicate handling of the box level items
 * Create Dockerfile to deploy application to a remote environment
 * Testing the application with various types of input data that might be possible
+* Specify DB constraints. Depending on how the data is used, could be a case to store in NoSQL DB
